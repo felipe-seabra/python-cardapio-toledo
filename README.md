@@ -7,7 +7,7 @@ Este programa em Python permite que garçons visualizem as pizzas disponíveis n
 1. Clone o repositório em sua máquina local
 2. Certifique-se de ter o Python 3.x instalado em sua máquina
 3. Abra o terminal ou prompt de comando na pasta onde o programa foi clonado
-4. Execute o comando python menu_pizzas.py para iniciar o programa
+4. Execute o comando python cardapio.py para iniciar o programa
 5. Siga as instruções na tela para visualizar as pizzas disponíveis
 
 # Adicionando novas pizzas ao menu
